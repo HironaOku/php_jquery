@@ -1,0 +1,30 @@
+.saveBtn {
+	display: none;
+}
+.saveBtn {
+	display: none;
+}
+
+.editBox{
+	display: none;
+}
+.cnslSave{
+	display: none;
+}
+
+.tutSave{
+	display: none;
+}
+
+#masterTable{
+	width: 90%;
+	margin: auto;
+}
+
+#listTitle{
+	background-color: rgba(0,0,0,.03);
+	border-color: rgba(0,0,0,.03);
+	color: rgba(26, 13, 13, 0.75);
+	font-size: medium;
+	font: bold;
+}

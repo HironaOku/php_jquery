@@ -1,0 +1,14 @@
+
+h3{
+	color:rgba(26,  13,  13, 0.58);
+	margin: auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	text-align: center;
+	border-bottom: 1px solid;
+	border-color: rgba(26, 13, 13, 0.32);
+}
+
+p#error {
+	color: #bc0b0b;
+}

@@ -1,0 +1,51 @@
+h1{
+	color: rgba(26, 13, 13, 0.75);
+	margin: auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	text-align: center;
+	border-bottom: 1px solid;
+	border-color:  rgba(26, 13, 13, 0.75);
+	
+}
+
+.table-responsive{
+	width: 80%;
+	margin: auto;
+}
+
+.disabled{
+	background-color: grey;
+}
+
+.table-responsive{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+#regiForm > div.form-group > div{
+	text-align:center;
+}
+
+#enrollwrap{
+	width: 90%;
+	margin: auto;
+}
+
+#listTitle{
+	background-color: rgba(0,0,0,.03);
+	border-color: rgba(0,0,0,.03);
+	color: rgba(26, 13, 13, 0.75);
+	font-size: medium;
+	font: bold;
+}
+
+.disp_Pandora{
+	display: none;
+}
+.disp_Neverland{
+	display: none;
+}
+.disp_Rivendell{
+	display: none;
+}

@@ -1,0 +1,41 @@
+h1{
+	color: rgba(26, 13, 13, 0.75);
+	margin: auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	text-align: center;
+	border-bottom: 1px solid;
+	border-color:  rgba(26, 13, 13, 0.75);
+	
+}
+
+
+.disabled{
+	background-color: grey;
+}
+
+.table-responsive{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+#regiForm > div.form-group > div{
+	text-align:center;
+}
+
+#enrollwrap{
+	width: 95%;
+	margin: auto;
+}
+
+#listTitle{
+	background-color: rgba(0,0,0,.03);
+	border-color: rgba(0,0,0,.03);
+	color: rgba(26, 13, 13, 0.75);
+	font-size: medium;
+	font: bold;
+}
+
+#dipAll{
+	display: none;
+}

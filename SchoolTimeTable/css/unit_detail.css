@@ -1,0 +1,42 @@
+
+h1{
+	color: rgba(26, 13, 13, 0.75);
+	margin: auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	text-align: center;
+	border-bottom: 1px solid;
+	border-color:  rgba(26, 13, 13, 0.75);
+	
+}
+
+#uniCode{
+	color: #9f9e9e;
+}
+
+table td{
+	text-align: center;
+	font-size: medium;
+}
+table th{
+	text-align: center;
+	font-size: medium;
+}
+
+.table-responsive{
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+
+div#unitList{
+	font-size: small;
+}
+
+#listTitle{
+	background-color: rgba(0,0,0,.03);
+	border-color: rgba(0,0,0,.03);
+	color: rgba(26, 13, 13, 0.75);
+	font-size: medium;
+	font: bold;
+}
+

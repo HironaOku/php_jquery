@@ -1,0 +1,58 @@
+#myTableconteiner{
+	margin: auto;
+	width: 80%;
+
+}
+table{
+	table-layout:fixed;
+}
+
+.Tut {
+	background-color: rgba(237, 172, 243, 0.47);
+	border-radius: 20px 20px 20px 20px;
+	text-align: center;
+	padding: 10px;
+	margin: 3px;
+	width: 100%;
+	height : 100%;
+}
+
+.Lec {
+	background-color: rgba(83, 230, 179, 0.45);
+	border-radius: 20px 20px 20px 20px;
+	text-align: center;
+	width: 100%;
+	height : 100%;
+}
+
+.Lec:hover {
+	background-color: rgba(83,  230,  179, 0.26);
+	text-decoration: none;
+}
+
+.Tut:hover {
+	background-color: rgba(237, 172, 243, 0.25);
+	text-decoration: none;
+}
+
+table td { 
+	width: 100%;
+	height : 100%;
+	text-align: center;
+	vertical-align: middle;
+	color: #404040; 
+}
+  
+table td a {
+	display :block;
+	width: 100%;
+	height : 100%;
+	text-decoration: none;
+} 
+
+table td a:link {
+	color: gray;
+} 
+table td a:visited {
+	color: #6a6767;
+} 

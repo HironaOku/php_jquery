@@ -1,0 +1,84 @@
+#masterTable{
+	margin: auto;
+	width: 95%;
+
+}
+h5{
+	float: left;
+}
+#editforUc{
+	width: 98%;
+	text-align: right;
+	color: rgb(46, 184, 189);
+}
+#editforUc input:nth-child(1){
+	width: 32px;
+}
+.ucimg{
+	text-align: center;
+}
+th{
+	text-align: center;
+	background-color:  rgba(45, 184, 189, 0.09);
+}
+td{
+	font-size: small;
+}
+#createData p {
+	color: rgb(46, 184, 189);
+}
+#createData{
+	border-top: none;
+	border-bottom: none;
+	border-right: none;
+	background-color: transparent;
+}
+.selectUC{
+	text-align: center;
+}
+.value9{
+	text-align: center;
+}
+.semester{
+	text-align: center;
+}
+#UC input[type=image]{
+	width: 25px;
+}
+
+td.ucimg img {
+	width: 25px;
+}
+
+td.edit input[type="image"]{
+	width: 25px;
+}
+
+td.remove input[type="image"]{
+	width: 25px;
+}
+
+.form-control{
+	font-size: small;
+}
+
+select{
+	height: 50%;
+}
+
+
+.editBox{
+	display: none;
+}
+
+#finish{
+	display: none;
+}
+
+.uctd{
+	text-align: left;
+}
+
+.ucMark{
+	margin-left: 20%;
+}

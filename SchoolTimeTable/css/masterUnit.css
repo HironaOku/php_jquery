@@ -1,0 +1,17 @@
+#masterTable{
+	margin: auto;
+	width: 95%;
+}
+
+.saveBtn {
+	display: none;
+}
+
+.editBox{
+	display: none;
+}
+
+
+.description {
+	width: 30%;
+}
